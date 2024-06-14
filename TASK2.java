@@ -9,7 +9,6 @@ he.getdata();
 }
 }
 
-
 class tas
 {
     
@@ -37,7 +36,7 @@ class tas
     }
     
 
-        System.out.println("Total Marks:"+total);
+    System.out.println("Total Marks:"+total);
     avg = total/n;
     System.out.print("Avergae percentage: " +avg);
     System.out.println(" %"); 
