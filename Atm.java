@@ -62,7 +62,7 @@ else
    }
     }
     
-while(choice!=5);
+while(choice!=4);
 
 
   }
@@ -115,5 +115,4 @@ Scanner scan = new Scanner(System.in);
 
     }
   }
-
-
+ 
