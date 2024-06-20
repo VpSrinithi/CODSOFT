@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Iterator;
 
-public class Task4 {
+public class Task5 {
 
     public static void main(String[] args) {
         int press = 0;
@@ -70,7 +70,7 @@ public class Task4 {
                     break; 
                     
                     default: 
-                    System.out.println("Booking cancelled...");
+                    System.out.println("cancelled...");
                                     break;
             }
         } while (press != 4);
